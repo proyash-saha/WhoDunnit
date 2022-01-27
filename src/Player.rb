@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------------------
-#  CLASS            : Player
+#  CLASS         : Player
 #
-#  AUTHOR         : Proyash Saha
+#  AUTHOR        : Proyash Saha
 #
 #  REMARKS       : This is a class that creates computer player objects.
 #
