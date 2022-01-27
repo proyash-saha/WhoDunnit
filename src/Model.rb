@@ -1,10 +1,10 @@
 #-----------------------------------------------------------------------------------------
-#  CLASS            : Model
+#  CLASS         : Model
 #
-#  AUTHOR         : Proyash Saha
+#  AUTHOR        : Proyash Saha
 #
 #  REMARKS       : To create a game that involves deduction to
-#                           determine the “who, where and how” of a crime.
+#                  determine the “who, where and how” of a crime.
 #
 #-----------------------------------------------------------------------------------------
 
