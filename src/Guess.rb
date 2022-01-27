@@ -4,7 +4,7 @@
 #  AUTHOR        : Proyash Saha
 #
 #  REMARKS       : This class is used to create a new Guess that a player
-#                           makes in the game.
+#                  makes in the game.
 #
 #-----------------------------------------------------------------------------------------
 
