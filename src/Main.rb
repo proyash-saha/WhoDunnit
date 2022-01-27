@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------------------
-#  CLASS            : Main
+#  CLASS         : Main
 #
-#  AUTHOR         : Proyash Saha
+#  AUTHOR        : Proyash Saha
 #
 #  REMARKS       : Main class(entry point) for the game.
 #
