@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------------------
-#  CLASS            : Card
+#  CLASS         : Card
 #
-#  AUTHOR         : Proyash Saha
+#  AUTHOR        : Proyash Saha
 #
 #  REMARKS       : This class is used to create a new Card object.
 #
