@@ -4,7 +4,7 @@
 #  AUTHOR        : Proyash Saha
 #
 #  REMARKS       : This is an abstract class (super class) that binds together
-#                           all the players (sub class) and avoids code repetition.
+#                  all the players (sub class) and avoids code repetition.
 #
 #-----------------------------------------------------------------------------------------
 
