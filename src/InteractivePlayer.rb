@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------------------
-#  CLASS            : InteractivePlayer
+#  CLASS         : InteractivePlayer
 #
-#  AUTHOR         : Proyash Saha, 7833550
+#  AUTHOR        : Proyash Saha
 #
 #  REMARKS       : This is a class that creates human player objects.
 #
