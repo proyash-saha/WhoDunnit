@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------------------
-#  CLASS            : AbstractClass
+#  CLASS         : AbstractClass
 #
-#  AUTHOR         : Proyash Saha
+#  AUTHOR        : Proyash Saha
 #
 #  REMARKS       : This is an abstract class (super class) that binds together
 #                           all the players (sub class) and avoids code repetition.
